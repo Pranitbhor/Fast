@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "543929361069",
+    "firebase_url": "https://fastcart-18a20.firebaseio.com",
+    "project_id": "fastcart-18a20",
+    "storage_bucket": "fastcart-18a20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543929361069:android:befeaa25d83bf08d",
+        "android_client_info": {
+          "package_name": "com.kuthe.keva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543929361069-rdvklv6h7nidd12j557j8rfg9cah903h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdqbgxq-LmXJJCoQ9iOw-4BqIiwScDsxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
